@@ -1,2 +1,0 @@
-#!/bin/bash
-chown --fromguillname betty hello
